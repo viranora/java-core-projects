@@ -17,5 +17,4 @@ A **console-based Student Management System** written in pure Java. This project
 
 ---
 
-Author
-Sema Ozylmaz
+...by Nora
